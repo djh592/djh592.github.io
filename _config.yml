@@ -22,7 +22,7 @@ repository               : "djh592/djh592.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "junhui-w.png"
   name             : "Junhui Ding"
   pronouns         : # example: "she/her"  
   bio              : "CS student at Tsinghua University; Research Assistant at HKU NAISS Lab. Interests: ML for Systems, Networking/Security, traffic generation."
